@@ -1,5 +1,6 @@
 #include <stdio.h>
 int main() {
+
 //intializing array and sum and average 
 int size = 5;
 int arr[5] = {1, 2, 3, 4, 5};
